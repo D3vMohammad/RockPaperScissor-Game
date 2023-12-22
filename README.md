@@ -87,3 +87,5 @@ print("Computer won:", com_wins, "times.")
 print("Goodbye")
 ```
 - Prints the final results and a farewell message after the user decides to quit.
+
+- # draw option is added
